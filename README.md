@@ -11,3 +11,9 @@ ______________
 Entregables
 • Código fuente completo en un repositorio público de GitHub.
 • Enlace correcto al repositorio entregado en esta tarea.
+##
+
+ - Android Studio
+ - Java
+ - Git
+ - M-V-VM
