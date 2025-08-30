@@ -16,4 +16,3 @@ Entregables
  - Android Studio
  - Java
  - Git
- - M-V-VM
